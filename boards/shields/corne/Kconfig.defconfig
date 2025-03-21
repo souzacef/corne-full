@@ -1,6 +1,6 @@
-if SHIELD_CORNE
+if SHIELD_TUBETEST
 
 config ZMK_KEYBOARD_NAME
-    default "corne"
+    default "TubeTest"
 
 endif

@@ -1,2 +1,2 @@
-config SHIELD_CORNE
-    def_bool $(shields_list_contains, corne)
+config SHIELD_TUBETEST
+    def_bool $(shields_list_contains, TubeTest)

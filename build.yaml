@@ -20,6 +20,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: TubeTest_left
+    shield: Redox_left
   - board: nice_nano_v2
-    shield: TubeTest_right
+    shield: Redox_right

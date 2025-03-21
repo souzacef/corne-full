@@ -1,6 +1,6 @@
-if SHIELD_TUBETEST
+if SHIELD_REDOX
 
 config ZMK_KEYBOARD_NAME
-    default "TubeTest"
+    default "Redox"
 
 endif

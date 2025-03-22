@@ -1,4 +1,4 @@
-if SHIELD_REDOX
+if SHIELD_COSMOS
 
 config ZMK_KEYBOARD_NAME
     default "Cosmos"
